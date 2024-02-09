@@ -440,38 +440,7 @@ const exploreImages =[
           </div>
         </Slider>
 </div>
-        <Slider {...settings1}  className={styles.bannerSlider2}  >
-         
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/e320d245-5aeb-4433-b0b1-9a67c2d78303.jpg
-' alt="" />
-            </div>
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/0b94d1b3-8011-435b-b38d-8acdc8f53710.jpg
-' alt="" />
-            </div>
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/8f3b13ce-686b-4bd1-b2e5-e2534e2de3ec.gif
-' alt="" />
-            </div>
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/5edfd368-351e-47e7-8384-6bca3eb16df9.jpg
-' alt="" />
-            </div>
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/0004c0e1-9c86-430f-8d94-293724658e3f.jpg
-' alt="" />
-            </div>
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/0e92b87a-f7d0-4b9b-955f-69d072926812.jpg
-' alt="" />
-            </div>
-            <div>
-              <img src='  https://d32baadbbpueqt.cloudfront.net/Homepage/de7f55a1-a84b-4690-8f11-1dddc2518964.jpg
-' alt="" />
-            </div>
-          
-          </Slider>
+        
 
 
 {/* BEST SELLERS */}
