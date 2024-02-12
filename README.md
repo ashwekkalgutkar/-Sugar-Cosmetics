@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# -Sugar-Cosmetics
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Unit DSA Construct Week Project**
 
-## Available Scripts
+**gamy-lace-3375**
 
-In the project directory, you can run:
+**Sugar Cosmetics Clone**
 
-### `npm start`
+# Deployed Link:-
+- https://sugar-cosmetics-psi.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Ashwek Kalgutkar -> [GitHub](https://github.com/ashwekkalgutkar) , [Linkedin](https://www.linkedin.com/in/ashwek-kalgutkar/)
 
-### `npm test`
+## Rohan -> [GitHub](https://github.com/RohanKansara01) , [Linkedin](https://www.linkedin.com/in/rohankansara/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Navtej -> [GitHub](https://github.com/navtejnt1) , [Linkedin](https://www.linkedin.com/in/navtej-anand/)
 
-### `npm run build`
+# Tech Stack:-
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- Redux
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Project Description:-
+Sugar Cosmetics is a renowned beauty brand celebrated for its expansive selection of cruelty-free makeup products. Ranging from vibrant lipsticks to precise eyeliners, Sugar provides top-tier cosmetics designed to suit a multitude of styles and skin tones. Focusing on trendiness and fearless self-expression, the brand has garnered acclaim for its dynamic color schemes. With a steadfast dedication to cruelty-free principles, Sugar Cosmetics resonates with makeup aficionados seeking excellence and diversity in their beauty rituals.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Website Screenshots:-
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Homepage:-**
+![homepage](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/b036845d-a306-4c5a-b8df-5aceab5beca6)
+![homepage_responsive_ipad](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/8d152a22-3c89-4187-8d30-ea26ed7974b9)
+![homepage_responsive_iphone](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/bd22e9ed-d1f9-4b0e-a2f0-cc9712340a85)
 
-### `npm run eject`
+- **Login Page:-**
+![login_details_form](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/863eb37e-23c8-4057-845c-6eeb6b8ae00e)
+![login_interface](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/2f82fe61-5fa8-43f7-9260-fa28183c1bde)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Products and Product Details Page:-**
+![Product_Page](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/873f1c92-2b0f-46ba-9b64-8c3828cfac51)
+![Product_details_page](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/b7142ecc-2a82-447b-acff-e8e38fc8401b)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Cart Page:-**
+![Cart_page](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/669577a7-498a-4e51-a63b-3ef307d07fc5)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Payment and Address Form**
+![Address_form](https://github.com/ashwekkalgutkar/-Sugar-Cosmetics/assets/142526317/56a197bf-60ea-4dbc-bdf5-7a3ed30d11db)
