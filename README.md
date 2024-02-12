@@ -23,6 +23,7 @@
 - JavaScript
 - ReactJs
 - Redux
+- ChakraUI
 
 # Project Description:-
 Sugar Cosmetics is a renowned beauty brand celebrated for its expansive selection of cruelty-free makeup products. Ranging from vibrant lipsticks to precise eyeliners, Sugar provides top-tier cosmetics designed to suit a multitude of styles and skin tones. Focusing on trendiness and fearless self-expression, the brand has garnered acclaim for its dynamic color schemes. With a steadfast dedication to cruelty-free principles, Sugar Cosmetics resonates with makeup aficionados seeking excellence and diversity in their beauty rituals.
