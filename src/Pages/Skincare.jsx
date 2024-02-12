@@ -10,7 +10,7 @@ import {
   MenuButton,
   MenuList,
   MenuItemOption,
-
+  // console.log(searchQuery);
   Button,
 
 } from '@chakra-ui/react'
