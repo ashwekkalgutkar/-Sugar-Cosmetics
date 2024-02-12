@@ -16,7 +16,7 @@ export default function Search(){
             setLoading(true)
           let res = await fetch(`https://cosmeticsapi1.herokuapp.com/makeup?q=${searchQuery}`);
           let data = await res.json();
-          
+          console.log(searchQuery);
           setProducts(data);
           setSearchParams({q:searchQuery})
         } finally {
